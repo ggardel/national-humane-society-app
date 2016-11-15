@@ -9,6 +9,8 @@ App link to [Trello]()
 
 ![Wireframe](https://trello-attachments.s3.amazonaws.com/57ad54de54192d6dce67299c/2338x1700/28a0fc357ae9e55c5ad3e5e5dac3154e/Scan_20160811.png)
 
+
+
 _App Statement_
 ---
 Create a more accesible, user friendly app for people 
@@ -18,6 +20,8 @@ Description
 ---
 Our mission is to present User friendly access to pet shelters
 nationwide with the use of Google API.
+
+<a href="http://imgur.com/TOPqZNQ"><img src="http://i.imgur.com/TOPqZNQ.png" title="source: imgur.com" /></a>
 
 _User Stories_
 ---
